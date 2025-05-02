@@ -1,0 +1,1406 @@
+[
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.AddressController",
+    "Method": "AddAddress",
+    "RelativePath": "api/Address/AddAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.OrderModule.DTOs.AddAddressRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.AddressController",
+    "Method": "DeleteAddress",
+    "RelativePath": "api/Address/DeleteAddress/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.AddressController",
+    "Method": "GetAddresss",
+    "RelativePath": "api/Address/GetAddresss",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.AddressController",
+    "Method": "UpdateAddress",
+    "RelativePath": "api/Address/UpdateAddress",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.OrderModule.Models.Address",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.BannerController",
+    "Method": "AddBanner",
+    "RelativePath": "api/Banner/AddBanner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LinkId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Link",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CouponId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.BannerController",
+    "Method": "DeleteBanner",
+    "RelativePath": "api/Banner/DeleteBanner/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.BannerController",
+    "Method": "GetAllBanners",
+    "RelativePath": "api/Banner/GetAllBanners",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.CartController",
+    "Method": "AddToCart",
+    "RelativePath": "api/Cart/AddToCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.CartModule.DTOs.AddToCartRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.CartController",
+    "Method": "DeleteAllUserCart",
+    "RelativePath": "api/Cart/DeleteAllUserCart",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.CartController",
+    "Method": "DeleteCartItem",
+    "RelativePath": "api/Cart/DeleteCartItem/{cartId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.CartController",
+    "Method": "GetCartById",
+    "RelativePath": "api/Cart/GetCartById/{cartId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.CartController",
+    "Method": "GetUserCart",
+    "RelativePath": "api/Cart/GetUserCart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.CartController",
+    "Method": "UpdateCartItems",
+    "RelativePath": "api/Cart/UpdateCartItems",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Jammer.CartModule.DTOs.UpdateCartRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.CategoryController",
+    "Method": "AddCategory",
+    "RelativePath": "api/Category/AddCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ParentId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImagePath",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.CategoryController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Category/DeleteCategory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.CategoryController",
+    "Method": "GetAllCategories",
+    "RelativePath": "api/Category/GetAllCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.CategoryController",
+    "Method": "GetCategoryById",
+    "RelativePath": "api/Category/GetCategoryById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.CategoryController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/Category/UpdateCategory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ParentId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImagePath",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "ApplyCoupon",
+    "RelativePath": "api/Coupon/ApplyCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.CouponModule.DTOs.ApplyCouponRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "CreateCoupon",
+    "RelativePath": "api/Coupon/CreateCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.CouponModule.Models.CouponDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "DeleteCoupon",
+    "RelativePath": "api/Coupon/DeleteCoupon/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetAllCoupons",
+    "RelativePath": "api/Coupon/GetAllCoupons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetCouponById",
+    "RelativePath": "api/Coupon/GetCouponById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetCouponsWithProductsAsync",
+    "RelativePath": "api/Coupon/GetCouponsWithProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetProductByProductIdCouponIdAsync",
+    "RelativePath": "api/Coupon/GetProductByProductIdCouponId/{couponId}/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetProductsByCoupon",
+    "RelativePath": "api/Coupon/GetProductsByCoupon/{couponId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetProductsByDiscountPercentage",
+    "RelativePath": "api/Coupon/GetProductsByDiscountPercentage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discountPercentage",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetProductsByDiscountRange",
+    "RelativePath": "api/Coupon/GetProductsByDiscountRange",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minDiscount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxDiscount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "GetRandomCouponProducts",
+    "RelativePath": "api/Coupon/GetRandomCouponProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CouponModule.Controllers.CouponController",
+    "Method": "UpdateCoupon",
+    "RelativePath": "api/Coupon/UpdateCoupon",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.CouponModule.Models.CouponDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.DeliveryBoyController",
+    "Method": "AssignDelivery",
+    "RelativePath": "api/DeliveryBoy/AssignDelivery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.OrderModule.DTOs.AssignDeliveryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.DeliveryBoyController",
+    "Method": "GetAllDeliveryBoys",
+    "RelativePath": "api/DeliveryBoy/GetAllDeliveryBoys",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.DeliveryBoyController",
+    "Method": "GetAssignedOrders",
+    "RelativePath": "api/DeliveryBoy/GetAssignedOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.DeliveryBoyController",
+    "Method": "GetOrderDetails",
+    "RelativePath": "api/DeliveryBoy/GetOrderDetails/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.DeliveryBoyController",
+    "Method": "MarkOrderAsDelivered",
+    "RelativePath": "api/DeliveryBoy/MarkOrderAsDelivered/{orderId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.DeliveryBoyController",
+    "Method": "UpdateOrderStatus",
+    "RelativePath": "api/DeliveryBoy/UpdateOrderStatus/{orderId}/{status}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "CancelOrder",
+    "RelativePath": "api/Order/CancelOrder/{orderId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order/CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.OrderModule.DTOs.CreateOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/Order/DeleteOrder/{orderId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetAllOrders",
+    "RelativePath": "api/Order/GetAllOrders/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetMonthlyOrderReport",
+    "RelativePath": "api/Order/GetMonthlyOrderReport/monthly-order-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetOrderById",
+    "RelativePath": "api/Order/GetOrderById/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetOrdersByStatus",
+    "RelativePath": "api/Order/GetOrdersByStatus/{status}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetOrdersByUserId",
+    "RelativePath": "api/Order/GetOrdersByUserId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetOrderStatusCounts",
+    "RelativePath": "api/Order/GetOrderStatusCounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetOrderSummary",
+    "RelativePath": "api/Order/GetOrderSummary/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "GetOverallOrderReport",
+    "RelativePath": "api/Order/GetOverallOrderReport/overall-order-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.OrderModule.Controllers.OrderController",
+    "Method": "UpdateOrderStatus",
+    "RelativePath": "api/Order/UpdateOrderStatus/{orderId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "AddProductWithImages",
+    "RelativePath": "api/Product/AddProductWithImages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "StockQuantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductURL",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Images",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Product/DeleteProduct/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "FilterProductsByCategory",
+    "RelativePath": "api/Product/FilterProductsByCategory/{parentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "GetAllProductIdAndNames",
+    "RelativePath": "api/Product/GetAllProductIdAndNames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Product/GetProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "GetProductByIdBanner",
+    "RelativePath": "api/Product/GetProductByIdBanner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "GetProductByURL",
+    "RelativePath": "api/Product/GetProductByURL/url",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "GetProductsWithPaging",
+    "RelativePath": "api/Product/GetProductsWithPaging",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "SearchProductsByName",
+    "RelativePath": "api/Product/SearchProductsByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "UpdateProductAsync",
+    "RelativePath": "api/Product/UpdateProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "StockQuantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductURL",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Images",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageIdsToDelete",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ProductController",
+    "Method": "UpdateProductStock",
+    "RelativePath": "api/Product/UpdateProductStock",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.ProductModule.DTOs.UpdateProductStockDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ReviewController",
+    "Method": "AddReview",
+    "RelativePath": "api/Review/AddReview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.ProductModule.DTOs.AddReviewRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ReviewController",
+    "Method": "DeleteReview",
+    "RelativePath": "api/Review/DeleteReview/deleteReview/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.ProductModule.Controllers.ReviewController",
+    "Method": "GetReviews",
+    "RelativePath": "api/Review/GetReviews/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "AddRole",
+    "RelativePath": "api/Users/AddRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.ProductModule.DTOs.AddRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/Users/DeleteAccount",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/Users/DeleteRole/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "DeleteUserByAdmin",
+    "RelativePath": "api/Users/DeleteUserByAdmin/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "GetAllRoles",
+    "RelativePath": "api/Users/GetAllRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Users/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "GetRoleById",
+    "RelativePath": "api/Users/GetRoleById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Users/GetUserById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/Users/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.UserModule.DTOs.UserLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "SignupAsync",
+    "RelativePath": "api/Users/Signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RoleId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "SignupByAdminAsync",
+    "RelativePath": "api/Users/SignupByAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RoleId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Users/UpdateRole",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.UserModule.DTOs.UpdateRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Users/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.UserModule.Controllers.UsersController",
+    "Method": "UpdateUserByAdmin",
+    "RelativePath": "api/Users/UpdateUserByAdmin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "RoleId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.WishListController",
+    "Method": "AddWishList",
+    "RelativePath": "api/WishList/AddWishList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jammer.CartModule.DTOs.AddToCartRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.WishListController",
+    "Method": "DeleteAllUserWishList",
+    "RelativePath": "api/WishList/DeleteAllUserWishList",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.WishListController",
+    "Method": "DeleteWishListItem",
+    "RelativePath": "api/WishList/DeleteWishListItem/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.WishListController",
+    "Method": "GetUserWishList",
+    "RelativePath": "api/WishList/GetUserWishList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.WishListController",
+    "Method": "GetWishListById",
+    "RelativePath": "api/WishList/GetWishListById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jammer.CartModule.Controllers.WishListController",
+    "Method": "UpdateWishListItem",
+    "RelativePath": "api/WishList/UpdateWishListItem",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Jammer.CartModule.DTOs.UpdateCartRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

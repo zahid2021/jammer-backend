@@ -1,0 +1,213 @@
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\appsettings.Development.json
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\appsettings.json
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Jammer.staticwebassets.runtime.json
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Jammer.exe
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Jammer.deps.json
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Jammer.runtimeconfig.json
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Jammer.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Jammer.pdb
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\AutoMapper.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Dapper.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Google.Protobuf.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\MySql.Data.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\ZstdSharp.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.AssemblyReference.cache
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.AssemblyInfoInputs.cache
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.AssemblyInfo.cs
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.CoreCompileInputs.cache
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.MvcApplicationPartsAssemblyInfo.cs
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.MvcApplicationPartsAssemblyInfo.cache
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.sourcelink.json
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets.build.json
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets.development.json
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.Jammer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.build.Jammer.props
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jammer.props
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jammer.props
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\scopedcss\bundle\Jammer.styles.css
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.Up2Date
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.dll
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\refint\Jammer.dll
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.pdb
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.genruntimeconfig.cache
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\ref\Jammer.dll
+F:\Backend\jammer\Jammer\bin\Debug\net8.0\web.config
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.Properties.Resources.resources
+F:\Backend\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.GenerateResource.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\web.config
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\appsettings.Development.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\appsettings.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.staticwebassets.runtime.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.exe
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.deps.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.runtimeconfig.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.pdb
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\AutoMapper.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Dapper.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\MySql.Data.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Text.Json.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\ZstdSharp.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.AssemblyReference.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.Properties.Resources.resources
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.GenerateResource.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.AssemblyInfoInputs.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.AssemblyInfo.cs
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.CoreCompileInputs.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.MvcApplicationPartsAssemblyInfo.cs
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.MvcApplicationPartsAssemblyInfo.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.sourcelink.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.Jammer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.build.Jammer.props
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jammer.props
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jammer.props
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\scopedcss\bundle\Jammer.styles.css
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.Up2Date
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\refint\Jammer.dll
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.pdb
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.genruntimeconfig.cache
+D:\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\ref\Jammer.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\web.config
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\appsettings.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.staticwebassets.runtime.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.staticwebassets.endpoints.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.exe
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.deps.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.runtimeconfig.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Jammer.pdb
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\AutoMapper.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Dapper.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\MySql.Data.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\ZstdSharp.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.AssemblyReference.cache
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.Properties.Resources.resources
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.GenerateResource.cache
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.AssemblyInfoInputs.cache
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.AssemblyInfo.cs
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.CoreCompileInputs.cache
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.sourcelink.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\scopedcss\bundle\Jammer.styles.css
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.Jammer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.Jammer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.build.Jammer.props
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jammer.props
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jammer.props
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.csproj.Up2Date
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\refint\Jammer.dll
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.pdb
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\Jammer.genruntimeconfig.cache
+D:\Projects\Website Development\C#\JammerECommerce\jammer\Jammer\obj\Debug\net8.0\ref\Jammer.dll
