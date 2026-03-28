@@ -1,6 +1,6 @@
-# Jammer Backend API — FastAPI
+# Jammer Backend API
 
-A full-featured e-commerce REST API built with **Python FastAPI** and **MySQL**. Converted from .NET C# to Python FastAPI.
+A full-featured e-commerce REST API built with **Python FastAPI** and **MySQL**.
 
 ---
 
@@ -17,7 +17,7 @@ A full-featured e-commerce REST API built with **Python FastAPI** and **MySQL**.
 
 ## 🛠️ Tech Stack
 
-- Python · FastAPI · MySQL · JWT · Uvicorn · Pydantic
+Python · FastAPI · MySQL · JWT · Uvicorn · Pydantic
 
 ---
 
@@ -42,5 +42,5 @@ JWT Bearer token — include in header:
 Authorization: Bearer <token>
 ```
 
-## Roles
-- Admin, Customer, Manager, DeliveryBoy
+### Roles
+Admin · Customer · Manager · DeliveryBoy
